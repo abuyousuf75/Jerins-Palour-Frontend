@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "photo": "https://i.ibb.co/x2BHML1/facial-treatment-1.png",
+      "price": 199,
+      "title": "Anti Age Face Treatment",
+      "description": "Transform your look with our expertAnti Age Face Treatment and styling services."
+    },
+    {
+      "id": 2,
+      "photo": "https://i.ibb.co/y455XQr/hair-dye-1.png",
+      "price": 99,
+      "title": "Hair Color & Styleing",
+      "description": "Pamper your hands and feet with our relaxing manicure and pedicure treatments."
+    },
+    {
+      "id": 3,
+      "photo": "https://i.ibb.co/gj6TCQq/makeup-1.png",
+      "price": 299,
+      "title": "Skin Care Treatment",
+      "description": "Revitalize your skin with our rejuvenating facial spa services."
+    }
+  ]
+  

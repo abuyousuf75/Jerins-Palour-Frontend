@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.active{
+    background:  none!important;
+    color : #474747!important;
+    font-weight:bold!important;
+}
+
+.boxHover:hover{
+    box-shadow: 0px 4px 80px 0px rgba(0, 0, 0, 0.10);
+    transition: all linear 0.2s;
+}
