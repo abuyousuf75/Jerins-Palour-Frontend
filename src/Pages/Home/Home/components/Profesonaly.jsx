@@ -13,19 +13,19 @@ const Profesonaly = () => {
         </h2>
         <p className="mt-8 text-md text-[#000000B3] md:max-w-[400px]">
           With well written codes, we build amazing apps for all platforms,
-          mobile and web apps in general ipsum. Lorem ipsum dolor sit amet,
+          mobile and web apps in general ipsum.Lorem ipsum dolor sit amet,
           consectetur adipiscing elit. Purus commodo ipsum.
         </p>
         <div className="mt-10 flex gap-24">
           <div>
             {" "}
-            <h2 className="text-4xl text-[#F63E7B]">500+</h2>
+            <h2 className="text-4xl text-[#F63E7B] font-bold">500+</h2>
             <p>Happy Customers</p>
           </div>
           <div>
             {" "}
-            <h2 className="text-4xl text-[#F63E7B]">500+</h2>
-            <p>Happy Customers</p>
+            <h2 className="text-4xl text-[#F63E7B] font-bold">16+</h2>
+            <p>Total Servics</p>
           </div>
         </div>
       </div>
