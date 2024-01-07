@@ -5,7 +5,9 @@ const Services = () => {
   const [menu, setMenu] = useState([]);
 
   useEffect(() => {
-    axios.get("Servics.json").then((data) => setMenu(data.data));
+    axios
+      .get("http://localhost:5000/servics")
+      .then((data) => setMenu(data.data));
   }, []);
   // console.log(menu)
   return (

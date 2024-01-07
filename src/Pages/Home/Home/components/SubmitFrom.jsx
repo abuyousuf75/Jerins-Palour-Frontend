@@ -15,13 +15,13 @@ const SubmitFrom = () => {
               <input
                 type="text"
                 placeholder="Full Name"
-                className="input  md:w-96"
+                className="input w-full mb-4 md:w-96"
                 required
               />
               <input
                 type="text"
                 placeholder="Last Name"
-                className="input  md:w-96"
+                className="input w-full md:w-96"
                 required
               />
             </div>
@@ -30,13 +30,13 @@ const SubmitFrom = () => {
               <input
                 type="email"
                 placeholder="Email Address"
-                className="input mb-4 md:w-96"
+                className="input mb-4 w-full md:w-96"
                 required
               />
               <input
                 type="number"
                 placeholder="Phone Number"
-                className="input mb-4 md:w-96"
+                className="input mb-4 w-full md:w-96"
                 required
               />
             </div>
