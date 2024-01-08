@@ -30,7 +30,10 @@ const Services = () => {
               <h2 className="text-[#111430] text-xl font-bold ">
                 {items.title}
               </h2>
-              <p>{items.description}</p>
+              <p className="mb-4">{items.description}</p>
+              <button className="btn btn-md bg-[#F63E7B]  text-xl text-white">
+                Add to cart
+              </button>
             </div>
           </div>
         ))}
